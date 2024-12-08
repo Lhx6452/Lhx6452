@@ -1,3 +1,4 @@
+``` bash 
 root@linux:~# cat bem_vindo_ao_perfil.txt  
 
 > "Explorar o potencial da tecnologia é construir soluções que conectam ideias a resultados."
