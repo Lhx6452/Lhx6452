@@ -6,7 +6,8 @@ root@linux:~# cat bem_vindo_ao_perfil.txt
 ---
 
 ## Português 🇧🇷  
-A tecnologia desempenha um papel essencial na criação de soluções práticas e eficientes para os desafios do dia a dia. Este perfil reúne projetos que envolvem **inteligência artificial**, **redes** e **segurança de dados**, sempre com um foco voltado à confiabilidade e utilidade.  
+A tecnologia desempenha um papel essencial na criação de soluções práticas e eficientes para os desafios do dia a dia. 
+Este perfil reúne projetos que envolvem **inteligência artificial**, **redes** e **segurança de dados**, sempre com um foco voltado à confiabilidade e utilidade.  
 
 Áreas de interesse incluem:  
 - **Modelos de IA generativa**, aplicados para melhorar processos e trazer inovação.  
@@ -23,7 +24,8 @@ root@linux:~# cat welcome_to_the_profile.txt
 
 > "Unleashing the potential of technology means turning ideas into meaningful results."
 
-Technology plays a key role in creating practical and efficient solutions for everyday challenges. This profile showcases projects involving **artificial intelligence**, **networks**, and **data security**, always with a focus on reliability and usability.  
+Technology plays a key role in creating practical and efficient solutions for everyday challenges. 
+This profile showcases projects involving **artificial intelligence**, **networks**, and **data security**, always with a focus on reliability and usability.  
 
 Key areas of interest include:  
 - **Generative AI models**, used to enhance processes and drive innovation.  
